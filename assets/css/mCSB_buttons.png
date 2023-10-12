@@ -145,7 +145,7 @@
                 <div class="col-md-7">
                     <h2>About me</h2>
                     <p class="lead">I am primarily a software engineer with a background and passion for mobile technology. Mobile for me is not simply another avenue of the computing industry but it represents the future of what we will be interacting with.</p>
-                    <p>I have a strong technical background on Android and iOS and I have been working as a mobile developer on many projects during my university studies and my work experiences. Native applications are where my heart is at the moment but I see the place for web and hybrid technologies and how they will evolve in the future.</p>
+                    <p>I have a strong technical background on Android and iOS and I have been working as a Android Developer on many projects during my university studies and my work experiences. Native applications are where my heart is at the moment but I see the place for web and hybrid technologies and how they will evolve in the future.</p>
                     <h3 class="mt-60">Services</h3>
                     <div class="row text-xs-center text-sm-left">
                         <div class="col-sm-6">
@@ -231,7 +231,7 @@
                         <div class="col-lg-12">
                             <a title="link" href="https://weareleto.com/" target="_blank"><img ng-src="assets/img/companies/leto.jpg" alt="Image not found" class="img-circle mb-20 m10 mt-20" src="assets/img/companies/leto.jpg"></a>
                             <h5 class="mb-5 text-white">LETO</h5>
-                            <h5 class="text-sm text-muted-light mt-5">Mobile Developer</h5>
+                            <h5 class="text-sm text-muted-light mt-5">Android Developer</h5>
                         </div>
                     </div><div class="col-sm-6 col-xs-6 col-md-3">
                         <img class="bg-image " ng-src="assets/img/locations/unisalento.jpg" alt="Image not found" src="assets/img/locations/unisalento.jpg">

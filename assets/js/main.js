@@ -73,7 +73,7 @@ app.controller('mainCtrl', ['$scope', '$firebaseObject', '$firebaseArray', '$tim
 
         });
     $("#role").typed({
-        strings: ["Software Engineer", "Mobile Developer", "Product Designer", "Mobile Designer", "Web Designer"],
+        strings: ["Software Engineer", "Android Developer", "Product Designer", "Mobile Designer", "Web Designer"],
         typeSpeed: 100,
         backDelay: 2000,
         loop: true,
